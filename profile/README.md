@@ -1,6 +1,6 @@
 # Industrial CV
 
-<p align="center"><img src="imgs/logo.png" width="128" height="128"></p>
+<p align="center"><img src="../imgs/logo.png" width="128" height="128"></p>
 
 </br>
 
